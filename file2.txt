@@ -1,2 +1,4 @@
 first line of second file
 second line in second file
+error
+error
